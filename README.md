@@ -1,6 +1,6 @@
 # Deep Markov Factor Analysis (DMFA)
 
-Codes and experiments for deep Markov factor analysis (DMFA) model accsepted for publication at NeurIPS2021:
+Codes and experiments for deep Markov factor analysis (DMFA) model accepted for publication at NeurIPS2021:
 
 A. Farnoosh and S. Ostadabbas, “Deep Markov Factor Analysis: Towards concurrent temporal and spatial analysis of fMRI data,” in Thirty-fifth Annual Conference on Neural Information Processing Systems (NeurIPS), 2021.
 
